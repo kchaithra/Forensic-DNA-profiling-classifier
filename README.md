@@ -42,28 +42,8 @@ In the aftermath of natural disasters, DNA analysis and machine learning are piv
 - **Naïve Bayes Classifier**
 - **Smith-Waterman Algorithm**
 
-## Installation
-
-To set up the project locally, follow these steps:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/DNA-Analysis-Disaster-Victim-Identification.git
-    ```
-
-2. Navigate to the project directory:
-    ```bash
-    cd DNA-Analysis-Disaster-Victim-Identification
-    ```
-
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ## Usage
-
-Detailed instructions on how to run the analysis will be provided here. This section should include commands and explanations on how to:
 
 1. Prepare and preprocess DNA samples.
 2. Train machine learning models.
